@@ -33,10 +33,10 @@ I'm a computer science enthusiast who enjoys tackling challenging projects, from
 
 ### 📊 Stats and mostly used languages
 
-![TanviSuryavanshi3000](https://github-readme-stats.vercel.app/api?username=TanviSuryavanshi3000&show_icons=true&theme=gruvbox)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TanviSuryavanshi3000&hide=TeX&layout=compact)
+![TanviS3000](https://github-readme-stats.vercel.app/api?username=TanviS3000&show_icons=true&theme=gruvbox)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TanviS3000&hide=TeX&layout=compact)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=TanviSuryavanshi3000&theme=gruvbox&border_radius=4.5)
+![GitHub Streak](https://streak-stats.demolab.com?user=TanviS3000&theme=gruvbox&border_radius=4.5)
 
 #
 
