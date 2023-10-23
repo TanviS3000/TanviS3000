@@ -1,5 +1,5 @@
 # 🚴‍♀ Tanvi
-
+![](https://img.shields.io/static/v1?label=TanviS3000+views&message=1234567890&color=007ec6&style=for-the-badge)
 **`Code Craftsman (Developer/Singer/Artist)`**
 
 I'm a computer science enthusiast who enjoys tackling challenging projects, from initial design to problem-solving. I also create art content, following a similar process from concept to final touches. Check out my work on my Instagram page "[tanwies.art][instagram]".
