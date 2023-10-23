@@ -1,5 +1,8 @@
 # 🚴‍♀ Tanvi
 ![](https://komarev.com/ghpvc/?username=TanviS3000&color=ff69b4)
+
+
+
 **`Code Craftsman (Developer/Singer/Artist)`**
 
 I'm a computer science enthusiast who enjoys tackling challenging projects, from initial design to problem-solving. I also create art content, following a similar process from concept to final touches. Check out my work on my Instagram page "[tanwies.art][instagram]".
