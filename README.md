@@ -5,10 +5,10 @@
 
 **`Code Craftsman (Developer/Singer/Artist)`**
 
-I'm a computer science enthusiast who enjoys tackling challenging projects, from initial design to problem-solving. I also create art content, following a similar process from concept to final touches. Check out my work on my Instagram page "[tanwies.art][instagram]".
+I'm a computer science enthusiast who enjoys tackling challenging projects, from initial design to problem-solving. I also create art content, following a similar process from concept to final touches. Check out my work on my Instagram page "[tanwie.s][instagram]".
 # 
 [![Linkedin Badge](https://img.shields.io/badge/-tanvisuryavanshi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tanvisuryavanshi/)](https://www.linkedin.com/in/tanvisuryavanshi/)
-[![Instagram Badge](https://img.shields.io/badge/-tanwies.art-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/tanwies.art/)](https://instagram.com/tanwies.art)
+[![Instagram Badge](https://img.shields.io/badge/-tanwie.s-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/tanwies.art/)](https://instagram.com/tanwie.s)
 [![Gmail Badge](https://img.shields.io/badge/-tanvisuryavanshi01@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tanvisuryavanshi01@gmail.com)](mailto:tanvisuryavanshi01@gmail.com)
 
 
