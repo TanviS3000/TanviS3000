@@ -1,4 +1,4 @@
-# 🚴‍♀ Tanvi Suryavanshi
+# 🚴‍♀ Tanvi
 ![](https://komarev.com/ghpvc/?username=TanviS3000&color=ff69b4)
 
 
