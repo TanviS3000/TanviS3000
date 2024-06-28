@@ -7,7 +7,7 @@
 
 I'm a computer science enthusiast who enjoys tackling challenging projects, from initial design to problem-solving. I also create art content, following a similar process from concept to final touches. Check out my work on my Instagram page "[tanwie.art][instagram]".
 # 
-[![Linkedin Badge](https://img.shields.io/badge/-TanviSuryawanshi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tanvisuryavanshi/)]([https://www.linkedin.com/in/tanvisuryavanshi/](https://www.linkedin.com/in/tanvi-suryawanshi-aa90042b6/))
+[![Linkedin Badge](https://img.shields.io/badge/-TanviSuryawanshi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=(https://www.linkedin.com/in/tanvi-suryawanshi-aa90042b6/)
 [![Instagram Badge](https://img.shields.io/badge/-tanwie.art-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/tanwie.art/)](https://instagram.com/tanwie.art)
 [![Gmail Badge](https://img.shields.io/badge/-tanvisuryavanshi01@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tanvisuryavanshi01@gmail.com)](mailto:tanvisuryavanshi01@gmail.com)
 
